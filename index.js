@@ -78,3 +78,4 @@ var array = [
   false
 ];
 console.log(array[2][1]);
+console.log('Welcome');
